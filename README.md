@@ -1,22 +1,21 @@
 ## Hi there 👋
 😮‍💨
-### 📊 GitHub Stats
+
+<img src="banner.png" alt="banner" width="100%" />
+
+## 🚀 About Me
+
+Aspiring AI Engineer passionate about Machine Learning
+
+
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Balavignesh26&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Balavignesh26&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Balavignesh26&theme=radical)
 
-<!--
-**Balavignesh26/Balavignesh26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🏆 Trophies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...    
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![trophy](https://github-profile-trophy.vercel.app/?username=Balavignesh26&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
