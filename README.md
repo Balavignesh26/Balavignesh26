@@ -1,7 +1,7 @@
 ## Hi there 👋
 😮‍💨
 
-<img src="‪C:\Users\kbala\Pictures\Wallpapers\1076922.webp" alt="banner" width="100%" />
+<img src="‪C:\Users\kbala\Pictures\Wallpapers\1076922.webp" alt="." width="100%" />
 
 ## 🚀 About Me
 
