@@ -10,7 +10,7 @@ Aspiring AI Engineer passionate about Machine Learning
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Balavignesh26&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Balavignesh26&layout=compact&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=YourGitHubUsername&theme=darki)](https://git.io/streak-stats)
+[![GitHub Streak Card](https://v0-git-hub-streak-score-card-phi.vercel.app/api?username=Balavignesh26&theme=dark)](https://github.com/ZainulabdeenOfficial/GitHub-Streak-Card)
 
 
 
