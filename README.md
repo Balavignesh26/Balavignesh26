@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-
 <img src="‪C:\Users\kbala\Pictures\Wallpapers\1076922.webp" alt="." width="100%" />
 
 
