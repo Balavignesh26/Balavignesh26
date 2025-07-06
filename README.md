@@ -10,6 +10,8 @@ Aspiring AI Engineer passionate about Machine Learning
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Balavignesh26&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Balavignesh26&layout=compact&theme=radical)
 
+https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 ### 💻 Tech Stack:
