@@ -5,6 +5,7 @@
 
 Aspiring AI Engineer passionate about Machine Learning
 
+![Profile views](https://komarev.com/ghpvc/?username=Balavignesh26&label=Profile%20views&color=0e75b6&style=flat)
 
 
 <div align="center">
