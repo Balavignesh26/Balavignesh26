@@ -1,6 +1,6 @@
-## Hi there 👋
+## About me 👋
 
-<img src="‪C:\Users\kbala\Pictures\Wallpapers\1076922.webp" alt="." width="100%" />
+<img src="‪[C:\Users\kbala\Pictures\Wallpapers\1076922.webp](https://user-images.githubusercontent.com/31812582/118072005-93d46980-b3c6-11eb-9afd-629b4f706a56.gif)" alt="." width="100%" />
 
 
 Aspiring AI Engineer passionate about Machine Learning
