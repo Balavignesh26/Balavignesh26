@@ -1,4 +1,6 @@
 ## About me 👋
+![Profile views](https://komarev.com/ghpvc/?username=Balavignesh26&label=Profile%20views&color=0e75b6&style=flat)
+
 
 <img src="https://user-images.githubusercontent.com/31812582/118072005-93d46980-b3c6-11eb-9afd-629b4f706a56.gif" alt="." width="100%" />
 
