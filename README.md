@@ -9,7 +9,6 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Balavignesh26&style=flat-square&color=8b5cf6&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Balavignesh26?style=flat-square&color=8b5cf6&logo=github)
 ![Location](https://img.shields.io/badge/Hyderabad-India-8b5cf6?style=flat-square&logo=googlemaps&logoColor=white)
 
 </div>
